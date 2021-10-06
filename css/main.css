@@ -32,6 +32,10 @@ header {
   padding: 1rem;
 }
 
+.class {
+  background-color: #259f95;
+}
+
 header p {
   margin: 0;
   font-weight: normal;
@@ -106,7 +110,7 @@ nav a:focus {
   position: absolute;
   top: 0;
   width: 100%;
-  fill: currentColor;
+  fill: currentcolor;
   background-color: #000;
 }
 
