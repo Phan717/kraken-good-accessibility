@@ -32,7 +32,6 @@ header {
   padding: 1rem;
 }
 
-header strong,
 header p {
   margin: 0;
   font-weight: normal;
@@ -61,6 +60,7 @@ h1 {
   color: #fff;
   font-weight: normal;
   font-size: 1.125rem;
+  background-color: #259f95;
 }
 
 h2 {
@@ -107,6 +107,7 @@ nav a:focus {
   top: 0;
   width: 100%;
   fill: currentColor;
+  background-color: #000;
 }
 
 nav i {
