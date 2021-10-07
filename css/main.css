@@ -33,15 +33,9 @@ header {
   padding: 1rem;
 }
 
-header strong
 header p {
   margin: 0;
   font-weight: normal;
-}
-
-body {
-  margin: 0 auto;
-  max-width: 48em;
 }
 
 .by {
