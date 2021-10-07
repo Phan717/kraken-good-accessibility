@@ -150,13 +150,9 @@ figcaption {
 footer {
   display: flex;
   justify-content: center;
-  padding: 1rem;
-  color: #fff;
-}
-
-article footer {
   background-color: #259f95;
   background-image: none;
   border-radius: 6px 6px 0 0;
   color: #fff;
+  padding: 1rem;
 }
