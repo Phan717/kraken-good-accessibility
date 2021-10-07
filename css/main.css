@@ -150,6 +150,7 @@ figcaption {
 footer {
   display: flex;
   justify-content: center;
+  background-color: #1e7c74;
   padding: 1rem;
   color: #fff;
   background-image: url("../images/anchors.svg");
@@ -157,7 +158,7 @@ footer {
 
 article footer {
   justify-content: center;
-  background-color: #259f95;
+  background-color: #1e7c74;
   background-image: none;
   border-radius: 6px 6px 0 0;
   color: #fff;
