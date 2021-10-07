@@ -125,6 +125,13 @@ nav i {
 article p {
   margin: 0;
   text-indent: 1.3em;
+  text-decoration-color: #000;
+}
+
+.skip-link {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
 }
 
 article div :first-child {
