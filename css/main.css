@@ -39,6 +39,11 @@ header p {
   font-weight: normal;
 }
 
+body {
+  margin: 0 auto;
+  max-width: 48em;
+}
+
 .by {
   font-style: italic;
 }
