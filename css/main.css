@@ -128,12 +128,6 @@ article p {
   text-decoration-color: #000;
 }
 
-.skip-link {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-}
-
 article div :first-child {
   text-indent: 0;
 }
